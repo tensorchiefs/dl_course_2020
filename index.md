@@ -1,7 +1,7 @@
 
 # Deep Learning (CAS machine intelligence, 2020) 
 
-This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete list of notebooks](list_of_notebooks.md) used in the course).
+This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete overview of all notebooks](https://github.com/tensorchiefs/dl_course_2020/tree/master/notebooks) used in the course).
 
 For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
