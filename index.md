@@ -25,3 +25,17 @@ We took inspiration (and sometimes slides / figures) from the following resource
 
 * Another applied course in DL: [TensorFlow and Deep Learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
+
+| Day  |      Date    |      Time    |
+|:--------:|:--------------|:---------------|
+| 1        | 18.02.2020	|???
+| 2        | 25.02.2020	|???
+| 3        | 03.03.2020|???
+| 4        | 10.03.2020|???
+| 5        | 17.03.2020|???
+| 6        | 24.03.2020|???
+| 7        | 31.03.2020|???
+| 8        | 07.04.2020|???
+
+
+
