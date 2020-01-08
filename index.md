@@ -43,7 +43,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 | Day  |      Topic and Slides    |      Additional Material    |		Exercises and homework  |
 |:--------:|:--------------|:---------------|:---------------|
-| 1        | <ul><li>TODO1</li> <br/> <li>TODO2</li></ul>|<li> TODO</li>|<li> TODO </li>
+| 1        | <ul><li>TODO1</li><li>TODO2</li></ul>|<li>TODO</li>|<li>TODO</li>
 | 2        |TODO|TODO|TODO
 | 3        |TODO|TODO|TODO
 | 4        |TODO|TODO|TODO
