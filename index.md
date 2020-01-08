@@ -39,5 +39,17 @@ The course is split in 8 sessions, each 4 lectures long.
 | 7        | 31.03.2020|???
 | 8        | 07.04.2020|???
 
+## Syllabus (might change during course)
+| Day  |      Topic and Slides    |      Additional Material    |		Exercises and homework|
+|:--------:|:--------------|:---------------|:---------------|
+| 1        | TODO	|TODO|TODO|
+| 2        | TODO	|TODO|TODO|
+| 3        | TODO	|TODO|TODO|
+| 4        | TODO	|TODO|TODO|
+| 5        | TODO	|TODO|TODO|
+| 6        | TODO	|TODO|TODO|
+| 7        | TODO	|TODO|TODO|
+| 8        | TODO	|TODO|TODO|
 
+Tensorchiefs are Oliver Dürr, Beate Sick and Elvis Murina.
 
