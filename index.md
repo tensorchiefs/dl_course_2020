@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tensorchiefs/dl_course_2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Deep Learning (CAS machine intelligence, 2019) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete list of notebooks](list_of_notebooks.md) used in the course).
 
-### Markdown
+For doing the hands-on part on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
-```markdown
-Syntax highlighted code block
+## Info for the projects
+You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints how to create a good poster you can check out the links that are provided in <a href="https://www.dropbox.com/s/u1f6mqk4pc3uhxe/poster-guidelines.pdf?dl=1">poster_guidelines.pdf</a> 
 
-# Header 1
-## Header 2
-### Header 3
+If you need free GPU resources, we might want to follow the [instructions how to use google colab](co.md). Help for preparing a hdf5 file from your images you can be found in the <a href="https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/data_prep.ipynb"> example Notebook.</a> 
 
-- Bulleted
-- List
+Examples for projects from the DL course 2018 and 2019 can be found [here](projects.md).
 
-1. Numbered
-2. List
+## Other resources
+We took inspiration (and sometimes slides / figures) from the following resources.
 
-**Bold** and _Italic_ and `Code` text
+* Deep Learning Book (DL-Book) [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/). This is a quite comprehensive book which goes far beyond the scope of this course.
 
-[Link](url) and ![Image](src)
-```
+* Convolutional Neural Networks for Visual Recognition [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/), has additional material and [youtube videos of the lectures](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC). While the focus is on computer vision, it also treats other topics such as optimization, backpropagation and RNNs. Lecture notes can be found at [http://cs231n.github.io/](http://cs231n.github.io/).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* More TensorFlow examples can be found at [dl_tutorial](https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/) 
 
-### Jekyll Themes
+* Another applied course in DL: [TensorFlow and Deep Learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tensorchiefs/dl_course_2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
