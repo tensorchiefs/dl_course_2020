@@ -1,5 +1,5 @@
 
-# Deep Learning (CAS machine intelligence, 2019) 
+# Deep Learning (CAS machine intelligence, 2020) 
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore provide jupyter notebooks ([complete list of notebooks](list_of_notebooks.md) used in the course).
 
