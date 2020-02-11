@@ -26,15 +26,14 @@ There two ways, how to run these notebooks, a provided docker container or via a
 
 * Install the following required packages
 	```
-	conda install tensorflow=2.0.0 
-	conda install tensorflow-probability=0.8.0
-	conda install jupyter notebook
-	conda install matplotlib
-	conda install scipy
-	conda install scikit-learn
-	conda install scikit-image
-	conda install -c ulmo urllib3
-	conda install -c conda-forge ipywidgets
+	pip install tensorflow==2.0.0
+	pip install tensorflow-probability==0.8.0
+	pip install jupyter
+	pip install matplotlib
+	pip install scipy
+	pip install scikit-learn
+	pip install scikit-image
+	pip install urllib3
 	```
 
 #### Starting the notebook
@@ -47,7 +46,7 @@ jupyter notebook
 
 #### Checking the installation
 Please make sure that the following notebook is working
-<a href='https://github.com/tensorchiefs/dl_course_2018/blob/master/notebooks/00_Checking_Correct_Installation.ipynb'>00_Checking_Correct_Installation.ipynb</a>
+<a href='https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/00_Checking_Correct_Installation.ipynb'>00_Checking_Correct_Installation.ipynb</a>
 
 
 
