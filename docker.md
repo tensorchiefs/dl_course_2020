@@ -1,7 +1,7 @@
 # How to use the docker container for the course
 
 
-We provide a docker image [oduerr/tf_docker:cpu_r](https://github.com/oduerr/dl_book_docker) with [Tensorflow](http://www.tensorflow.org) (v1.13.0) , [TFLearn](http://tflearn.org/), [Keras](https://keras.io/), and many other pre-installed python libraries (numpy, pandas). It also allows to run R-code inside the notebooks. See e.g. [here](https://github.com/oduerr/tf_docker/blob/cpu_r/notebooks/UseR.ipynb) how to use it.
+We provide a docker image [oduerr/tf_docker:cpu_r](https://github.com/oduerr/dl_book_docker) with [Tensorflow](http://www.tensorflow.org) and many other pre-installed python libraries (numpy, pandas).
 
 ## Installation of docker
 
