@@ -26,11 +26,16 @@ There two ways, how to run these notebooks, a provided docker container or via a
 
 * Install the following required packages
 	```
-	conda install tensorflow=1.12.0
-	conda install keras=2.2.4 
+	conda install tensorflow=2.0.0 
+	conda install tensorflow-probability=0.8.0
+	conda install jupyter notebook
+	conda install matplotlib
+	conda install scipy
+	conda install scikit-learn
+	conda install scikit-image
+	conda install -c ulmo urllib3
 	conda install -c conda-forge ipywidgets
 	```
-
 
 #### Starting the notebook
 
