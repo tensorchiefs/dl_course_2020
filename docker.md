@@ -43,11 +43,6 @@ docker run -p 8888:8888 -p 6006:6006 -it oduerr/dl_book_docker bash
 The entry before the colon ':' is on the local machine, the one after it inside the container. Examples:
 
 ```
-
-
-
-
-
-
-
-
+  docker run -p 4242:8888 -it oduerr/dl_book_docker #4242 is the port on the local machine, 8888 inside the container
+  docker run -v /tmp/dl_book/:/notebooks/dl_book/ #/tmp/dl_book is on local machine
+```
