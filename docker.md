@@ -1,7 +1,7 @@
 # How to use the docker container for the course
 
 
-We provide a docker image [oduerr/tf_docker:cpu_r](https://github.com/oduerr/dl_book_docker) with [Tensorflow](http://www.tensorflow.org) and many other pre-installed python libraries (numpy, pandas).
+We provide a docker image [oduerr/dl_book_docker](https://github.com/oduerr/dl_book_docker) with [Tensorflow](http://www.tensorflow.org) and many other pre-installed python libraries (numpy, pandas).
 
 ## Installation of docker
 
