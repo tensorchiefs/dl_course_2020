@@ -45,7 +45,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 | Day  |      Topic and Slides    |      Additional Material    |		Exercises and homework  |
 |:--------:|:--------------|:---------------|:---------------|
-| 1        | <li>TODO1 </li> <li> TODO2 </li> </ul>|<li>TODO</li>|<li>[01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/01_simple_forward_pass.ipynb)</li>
+| 1        | Introduction, Fully Connected Networks, Keras [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/01_Introduction.pdf) |[Network Playground](https://playground.tensorflow.org/) |<li>[01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/01_simple_forward_pass.ipynb)</li>
 | 2        |TODO|TODO|TODO
 | 3        |TODO|TODO|TODO
 | 4        |TODO|TODO|TODO
