@@ -14,7 +14,7 @@ If you need free GPU resources, we might want to follow the [instructions how to
 
 Examples for projects from the DL course 2018 and 2019 can be found [here](projects.md).
 
-## Other resources
+## Other resources 
 We took inspiration (and sometimes slides / figures) from the following resources.
 
 * Probabilistic Deep Learning (DL-Book) [Probabilistic Deep Learning](https://www.manning.com/books/probabilistic-deep-learning?a_aid=probabilistic_deep_learning&a_bid=78e55885). This book is by the tensorchiefs and covers the increasingly popular probabilistic approach to deep learning .
@@ -47,7 +47,7 @@ The course is split in 8 sessions, each 4 lectures long.
 |:----------------:|:-----------------------|:----------------------------|:--------------------------------------|
 | 1        | Introduction, Fully Connected Networks, Keras [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/01_Introduction.pdf) |[Network Playground](https://playground.tensorflow.org/) |[01_simple_forward_pass](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/01_simple_forward_pass.ipynb)<br>[02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/02_fcnn_with_banknote.ipynb)
 | 2        |Looking back at fcNN, working with loss curves, convolutional neural networks [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/02_CNN.pdf) |[Understanding convolution](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)|[03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/03_fcnn_mnist.ipynb)<br>[04_fcnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb)<br>[05_cnn_edge_lover](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/05_cnn_edge_lover.ipynb)<br>[06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb)<br>[07_cifar10_norm](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/07_cifar10_norm.ipynb)
-| 3        |Tricks of the trade in CNNs [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/03_CNN.pdf)|TODO|TODO
+| 3        |Tricks of the trade in CNNs [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/03_CNN.pdf)|[Understanding CNNs](http://cs231n.github.io/understanding-cnn)|TODO
 | 4        |TODO|TODO|TODO
 | 5        |TODO|TODO|TODO
 | 6        |TODO|TODO|TODO
