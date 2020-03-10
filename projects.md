@@ -5,7 +5,7 @@
 
 * ["Dog Breed Identification"](https://drive.google.com/file/d/1fogRymiuGJL8c-mXs4mwEg1DHD_Tkei0/view?usp=sharing) Melanie Hugentobler, Andreea Wyss und Yacine Mekesser
 
-* ["Dog Breed Identification"](posters/Poster_Dog_Breed_Identification.pptx/pdf) Tom Schäfer, Hans Engeli, Marco Flatt
+* ["Dog Breed Identification"](posters/Poster_Dog_Breed_Identification.pptx.pdf) Tom Schäfer, Hans Engeli, Marco Flatt
 
 * ["Classifying Real Estate Ad Images with Convolutional Neural Networks CAS Machine Intelligence"](posters/Poster_E06.pdf) Reto Camenzind, Lukas Stöcklin, Julia Sulc
 
