@@ -52,7 +52,7 @@ The course is split in 8 sessions, each 4 lectures long.
 | 3        |Tricks of the trade in CNNs [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/03_CNN.pdf)|[Understanding CNNs](http://cs231n.github.io/understanding-cnn)|[08_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/08_cifar10_tricks.ipynb)<br>[09_1DConv](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/09_1DConv.ipynb)
 | 4        |Details: Backpropagation in DL, MaxLike-Principle [slides](https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/04_Details.pdf)|TODO|[10_linreg_tensorflow](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/10_linreg_tensorflow.ipynb)<br>[11_backpropagation](https://github.com/tensorchiefs/dl_course_2020/blob/master/notebooks/11_backpropagation.ipynb)<br>[maxlik](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)
 |**no lecture due to corona crisis**         |**no lecture due to corona crisis**|**no lecture due to corona crisis**|**no lecture due to corona crisis**
-| 6        |TODO|TODO|TODO
+|6     |Probabilistic Models [slides Part 1] (https://github.com/tensorchiefs/dl_course_2020/blob/master/slides/05_Probabilistic_Modeling_part1.pdf)|TODO|TODO
 | 7        |TODO|TODO|TODO
 | 8        |TODO|TODO|TODO
 
